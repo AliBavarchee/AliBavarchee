@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliBavarchee
 - 👀 I’m interested in HEP - specially QGP and also big data 
-- 🌱 I’m currently learning GEANT4, basf2 and julia
+- 🌱 I've started learning JuliaHEP 
 - 📫 reach me by Ali.Bavarchee@gmail.com
 
 <!---
