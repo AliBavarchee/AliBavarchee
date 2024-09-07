@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliBavarchee
 - 👀 I’m interested in HEP - specially QGP and also big data 
-- 🌱 I've started learning JuliaHEP 
+- 🌱 I'm currently working on p-p collision simulation & LQCD, using python & julia
 - 📫 reach me by Ali.Bavarchee@gmail.com
 
 <!---
