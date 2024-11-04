@@ -82,43 +82,7 @@
 
 ---
 
-## Additional Project Experience
 
-- **Icarus Experiment:**  
-  Usage of ICARUS data to identify e-Neutrinos & Cosmic Ray using machine learning algorithms like Random Forest and Neural Networks.
-
-- **Belle II Experiment:**  
-  PID study of D*+ meson decay for particle identification at SuperKEKB accelerator.
-
-- **LHCb Experiment:**  
-  Rare decay search using deep neural networks to classify events and merge variables with techniques like MVA and BDT.
-
-- **COVID-19 Papers Analysis:**  
-  NLP applied to distributed computing of 1000+ COVID-19 related papers using DASK and FastText.
-
----
-
-## Languages
-- **English:** Fluent (Verbal and Written)
-- **Persian:** Native (Verbal and Written)
-- **Italian:** Basic (Verbal), Good (Written)
-- **Norwegian (Bokmål):** Basic (Verbal and Written)
-
----
-
-## References
-
-- **Prof. Marco Zanetti, Full Professor, University of Padova**  
-  Email: [marco.zanetti@cern.ch](mailto:marco.zanetti@cern.ch)  
-  Phone: +39 049 827 7129
-
-- **Prof. Alessandro Gaz, Associate Professor, INFN Padova**  
-  Email: [alessandro.gaz@unipd.it](mailto:alessandro.gaz@unipd.it)  
-  Phone: +39 7057
-
-- **Prof. Laleh Farhang Matin, Associate Professor, IAU, North Tehran Branch**  
-  Email: [laleh.matin@gmail.com](mailto:laleh.matin@gmail.com)  
-  Phone: +98 02166434090
 
 
 <!---
