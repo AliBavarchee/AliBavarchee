@@ -1,6 +1,9 @@
-👋 Hi, I’m @AliBavarchee ![Logo](AliBavar04.png) \\
+👋 Hi, I’m @AliBavarchee ![Logo](AliBavar04.png)
+
 👀 I’m passionate about High Energy Physics (HEP), particularly Quark-Gluon Plasma (QGP), and Big Data.  
+
 🌱 Currently working on proton-proton collision simulations and Lattice QCD (LQCD) using Python and Julia.  
+
 📫 Feel free to reach out: [ali.bavarchee@gmail.com](mailto:ali.bavarchee@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-bavarchee-qip/)
 ====
