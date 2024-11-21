@@ -1,4 +1,4 @@
- ![Logo](AliBavar03.jpg width="28" height="28")
+ ![](AliBavar03.jpg width="28" height="28")
  
 👋 Hi, I’m @AliBavarchee
 👀 I’m passionate about High Energy Physics (HEP), particularly Quark-Gluon Plasma (QGP), and Big Data.  
