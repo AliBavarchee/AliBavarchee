@@ -30,7 +30,7 @@
 
 Feel free to reach out if you want to collaborate on a project or just say hi. 😊
 
-![bye](https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV)
+![bye](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNkcXRhajdrOTU0bGltYTVmMWY2NnZkMW1xMDIzaGNhaXgzOGtnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
 <!---
 AliBavarchee/AliBavarchee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
