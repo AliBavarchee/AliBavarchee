@@ -13,7 +13,7 @@
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- **Languages:** Bash, C++, Python, R, SQL, MATLAB
+- **Languages:** Bash, C++, Python, R, Julia, MATLAB, Wolfram Mathematica
 - **Frameworks:** TensorFlow, SciPy, scikit-learn, Pandas
 - **Tools:** Jupyter, Docker, Git, Tableau
 - **Databases:** MySQL, PostgreSQL, MongoDB
