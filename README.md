@@ -28,6 +28,7 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-bavarchee-qip/)
 [![Website](https://img.shields.io/badge/WEBSITE-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://t.me/DIGITALHANAARTS2)
+[![Website](https://img.shields.io/badge/WEBSITE-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gravatar.com/festcasually893c8bc487)
 
 Feel free to reach out if you want to collaborate on a project or just say hi. 😊
 
