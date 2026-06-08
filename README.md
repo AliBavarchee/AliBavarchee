@@ -1,6 +1,6 @@
 ![Welcome](https://img.shields.io/badge/WELCOME-TO%20MY%20PROFILE-blueviolet?style=for-the-badge&logo=github)
 
-👋 Hi, I’m @AliBavarchee ![Logo](LOGO.png) ![Minab](MinAb_kids_Hwn.png)
+👋 Hi, I’m @AliBavarchee ![Logo](LOGO.png)
 ====
 ![Minab](MinAb_kids_Hwn.png)
 ====
