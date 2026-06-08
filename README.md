@@ -2,6 +2,8 @@
 
 👋 Hi, I’m @AliBavarchee ![Logo](LOGO.png) ![Minab](MinAb_kids_Hwn.png)
 ====
+![Minab](MinAb_kids_Hwn.png)
+====
 👀 I’m passionate about High Energy Physics (HEP)🔬⚛️💥, particularly Quark-Gluon Plasma (QGP) :dizzy:, and Big Data.  
 
 🌱 Used to be working on proton-proton collision simulations and Lattice QCD (LQCD) using Python and Julia.  
